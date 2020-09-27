@@ -1,9 +1,23 @@
 body{
-    background: yellow;
-    font-family: 'Times New Roman', Times, serif;
+    background:#f69e7b;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
 }
 
-h1{
-    color: purple;
+.assigment{
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    background: #eedad1;
+}
+
+.Assigment_img{
+    width: 200px;
+    padding: 10px;
+}
+
+h1{ 
+    color: #383e56;
     text-align: center;
 }
+/*  #eeeeee #222831 #4f8a8b #fbd46d*/
