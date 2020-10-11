@@ -2,6 +2,7 @@ body{
     background:#f69e7b;
     font-size: large;
     font-family:'Times New Roman', Times, serif;
+    color: #1a1c20;
 }
 
 .assigment{
@@ -11,13 +12,19 @@ body{
     background: #eedad1;
 }
 
-.Assigment_img{
-    width: 200px;
-    padding: 10px;
+.assigment img{
+    width: 400px;
+    border: 2px solid #587AA6;
+    margin-right: 20px;
 }
 
 h1{ 
     color: #383e56;
     text-align: center;
+}
+
+a{
+    color: #835858;
+    text-decoration: none;
 }
 /*  #eeeeee #222831 #4f8a8b #fbd46d*/
