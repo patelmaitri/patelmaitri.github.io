@@ -9,13 +9,17 @@ body{
     display:flex;
     padding: 10px;
     margin: 10px;
+    margin-bottom: 30px;
     background: #eedad1;
+    border-radius: 5px;
+    box-shadow: 5px 10px #383e56;
 }
 
 .assigment img{
     width: 400px;
     border: 2px solid #587AA6;
     margin-right: 20px;
+    border-radius: 5px;
 }
 
 h1{ 
@@ -24,7 +28,11 @@ h1{
 }
 
 a{
-    color: #835858;
+    color: yellowgreen;
     text-decoration: none;
+}
+
+.assigment a:hover{
+    color: #835858;
 }
 /*  #eeeeee #222831 #4f8a8b #fbd46d*/
