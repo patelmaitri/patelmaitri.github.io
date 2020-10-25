@@ -5,8 +5,13 @@ body{
     color: #1a1c20;
 }
 
+.assigments{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .assigment{
-    display:flex;
+    width: 30%;
     padding: 10px;
     margin: 10px;
     margin-bottom: 30px;
@@ -20,6 +25,8 @@ body{
     border: 2px solid #587AA6;
     margin-right: 20px;
     border-radius: 5px;
+    display: block;
+    margin: auto;
 }
 
 h1{ 
